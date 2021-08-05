@@ -1,6 +1,6 @@
 <!-- TODO: css animation -->
 
-
+![ Alt text](assets/aniOne.gif) [](assets/aniOne.gif)
 
 # Hola, mi nombre es Francisco!
 
