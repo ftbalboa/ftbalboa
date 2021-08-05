@@ -1,30 +1,28 @@
-
 ![ welcome gif](assets/aniOne.gif) [](assets/aniOne.gif)
 
 # Hola, mi nombre es Francisco!
 
 ## Sobre Mi
 
-
 Full-Stack Developer, Electronics technician.
-
 
 ## Skills
 
 <img src="assets/skills.png" width=600px>
 
-
 ## Proyectos
 
-
 ### Chess
+
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
+
 ![ chess gif](https://raw.githubusercontent.com/ftbalboa/rrchess/main/imgRm/ej.gif) [](https://github.com/ftbalboa/rrchess)
 
-
 ### Videogames database
+
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
-![ videogames gif ](https://raw.githubusercontent.com/ftbalboa/PI-Videogames-FT14b/main/gif/ej4.gif) [](https://github.com/ftbalboa/PI-Videogames-FT14b)
+
+![ videogames gif](https://raw.githubusercontent.com/ftbalboa/PI-Videogames-FT14b/main/gif/ej4.gif) [](https://github.com/ftbalboa/PI-Videogames-FT14b)
 
 ## Contacto
 
