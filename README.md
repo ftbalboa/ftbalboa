@@ -8,7 +8,6 @@
 
 Full-Stack Developer, Electronics technician.
 
-Generando experiencias desde el desarrollo
 
 ## Skills
 
