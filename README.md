@@ -22,7 +22,7 @@ Full-Stack Developer, Electronics technician.
 
 <hr style="height:1px;border:none;color:#333;background-color:#333;">
 
-![ chess gif](https://raw.githubusercontent.com/ftbalboa/rrchess/main/imgRm/ej.gif) [](https://github.com/ftbalboa/rrchess)
+![ chess gif](https://raw.githubusercontent.com/ftbalboa/rrchess/main/imgRm/one.PNG) [](https://github.com/ftbalboa/rrchess)
 
 ### Videogames database
 
